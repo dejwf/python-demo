@@ -1,0 +1,1 @@
+run 'behave' from command line (or configure your IDE to execute behave's scenarios)
